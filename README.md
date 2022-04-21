@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web develeopment
 - 🌱 I’m currently learning Frontend development
 - 💞️ I’m looking to collaborate on learning better with coding
+- I'm on the lookout for internships to learn on the job
 - 📫 How to reach me iseghohimenmiracle@gmail.com
 
 <!---
